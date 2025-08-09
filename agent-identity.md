@@ -1,22 +1,54 @@
 ---
 marp: true
-theme: gaia
-class: invert
 title: Understanding Agent Identity
 description: A deep dive into identity in AI-native multi-agent systems
+theme: gaia 
 paginate: true
+class: lead 
+style: |
+  img {
+    max-width: 100%;
+    max-height: 40vh;
+    margin: 0 auto;
+  }
 ---
 
 # Understanding Agent Identity
+- What is AI Agent ?
+- How identity work for Humans ?
+- How it is looks like for AI Agents ?
+
+---
+
+### Agents are not new 
+- John McCarthy (1960s) lisp programs that act on behalf of user 
+- Carl Hewitt’s Planner (1969) Planing and Goal directed agents 
+- Actor model (1973, Carl Hewitt) Agent 2 Agent interaction 
+
+📌 Agents - preprogrammed entities 
+
+---
+
+### AI Agents 
+- Natural Language use 
+- Intelligence & Learning 
+- Decision-Making Autonomy 
+- Perception of Context 
+- Goal Flexibility 
+
+📌 [AI Agents - Humman like entities](https://medium.com/ai-in-plain-english/agents-are-more-human-like-entities-not-another-software-65bef1742d16)  
+
+---
 
 ### From Task Execution to Autonomous Presence
 
-- AI agents have evolved beyond task execution.
+- AI agents have evolving beyond task execution.
+- Proactive role in communication 
 - Identity now plays a foundational role in autonomy.
 
 ---
 
-## What *Is* Identity?
+##  What *Is* Identity?
 
 ### Philosophical & Practical View
 
@@ -26,48 +58,48 @@ paginate: true
 
 ---
 
-## Network of Identities
+## Network of Identities 
 
-<img src="./network-of-identities.webp" style="max-height: 60vh; display: block; margin: 0 auto;" />
+![multiple identities](./network-of-identities.webp)
+[network of identities persona](https://aeon.co/essays/the-self-is-not-singular-but-a-fluid-network-of-identities?source=post_page-----51e8736f8a7a---------------------------------------)
 
-📌 Humans = network of identities → so do agents.
-
-[Read more](https://aeon.co/essays/the-self-is-not-singular-but-a-fluid-network-of-identities?source=post_page-----51e8736f8a7a---------------------------------------)
-
----
-
-## Trait-Driven Identity
-
-<img src="./Insert-fig-traits.webp" style="max-height: 60vh; display: block; margin: 0 auto;" />
-
-📌 Humans have traits that shape identity.
+📌 Humans = network of  identities → so do agents.
 
 ---
 
-## Identity of Agents in AI-Native Companies
+## Trait driven identity 
+
+![trait driven](./Insert-fig-traits.webp)
+
+📌 Humans has traits that shape identity.
+
+---
+
+
+##  Identity of Agents in AI-Native Companies
 
 - **System prompts** are the blueprint of identity.
-- Identity prompt = role, expertise + style, behavior.
+- Identity prompt = role, expertise +  style, behavior.
 
-> "Ontology expert with 10+ years in knowledge graphs... uses formal language, prefers RDF to communicate results."
+> "You are Ontology expert with 10+ years in knowledge graphs... use more formal language prefer RDF as to communicate results "
 
-- It's more than configuration — it’s **professional persona**.
+- It's more than configuration — it's **professional persona**.
 
 ---
 
-## Architecture Shapes Identity
+##  Architecture Shapes Identity 
 
 - **Model architecture** affects expressiveness.
 - **Memory systems** impact coherence.
 - **APIs/tools/resources** define capabilities.
 - **Data access** shapes expertise.
-- **Compliance of environment** affects enterprise setup.
-
-💡 Identity = Prompt + Capabilities + Context + Environment
+- **complience of env** effect enterprice setup
+ 
+💡 Identity = Prompt + Capabilities + Context + enviroment.
 
 ---
 
-## Multi-Agent Identity
+##  Multi-Agent Identity
 
 ### Focus Shifts: Who → What Can Be Done
 
@@ -75,13 +107,13 @@ paginate: true
   - What services can the agent provide?
   - What skills are verified?
 
-- **Personality traits** emerge in interactions:
+- **Personality traits** emerge in interactions.
   - Socratic vs. direct styles
   - Collaborative behavior
 
 ---
 
-## Emergent Identity in Collaboration
+##  Emergent Identity in Collaboration
 
 - **Identity emerges** through interactions:
   - Role (e.g., coordinator, specialist)
@@ -98,10 +130,10 @@ paginate: true
 ## Trust, Verification & Credentials
 
 - Can we verify agent claims?
-- Require cryptographic proofs:
+- Need cryptographic proofs:
   - Digital signatures
   - Verifiable credentials
-  - Audit logs
+  - Audith logs
   - Organizational affiliation
 
 🛂 Think: Agent CVs, reputation, and track records.
@@ -110,7 +142,7 @@ paginate: true
 
 ## Agent Identity Networks
 
-- Agents are part of networks:
+- Agents = part of networks:
   - Other agents
   - Organizations
   - Resources
@@ -124,7 +156,7 @@ paginate: true
 
 ---
 
-## Cross-Network Identity
+##  Cross-Network Identity
 
 - Bridging identity across:
   - Organizations
@@ -140,7 +172,7 @@ paginate: true
 
 ---
 
-## Conclusion
+##  Conclusion
 
 - Agent identity is **multi-dimensional**:
   - Capabilities
@@ -156,7 +188,10 @@ paginate: true
 ---
 
 ## Thank You!
+To learn more: 
+ [Agentic AI: What is Agent Identity About?](https://medium.com/ai-in-plain-english/agentic-ai-what-is-agent-identity-about-238b557b6224)
 
 **Questions?**
 
-🧩 Let’s discuss identity as a foundation for trustworthy multi-agent systems.
+
+
