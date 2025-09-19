@@ -91,7 +91,7 @@ transition: slide
 ###  DAO vs NAO Comparison
 ## DAO vs NAO: Side by Side
 
-
+--
 
 | Aspect | DAOs | NAOs |
 |--------|------|------|
@@ -145,7 +145,7 @@ transition: slide
 - Agency = empowered decision-making within a collaborative organizational framework
 - Key difference: integration vs. isolation
 
----
+--
 
 ### How Full Autonomy Works
 
@@ -153,7 +153,7 @@ transition: slide
 - Influence determined only by token holdings
 - No meaningful organizational integration or collaboration
 
----
+--
 
 ### How Agency Works
 
@@ -161,7 +161,7 @@ transition: slide
 - Become more integrated into the organization while gaining more empowerment
 - Focus on meaningful contribution within collaborative structure rather than pure independence
 
----
+--
 
 ### The Strategic Shift
 
@@ -191,13 +191,15 @@ transition: slide
 ###  Challenges & Solutions
 ## Challenges We're Solving
 
+--
+
 ### Current Challenges
 - Identity verification complexity
 - Reputation system gaming
 - Technical infrastructure maturity
 - Legal recognition uncertainty
 
--- 
+--
 
 ### Our Approach
 - Multi-factor identity proofing
@@ -224,18 +226,6 @@ transition: slide
 
 ---
 
-###  Call to Action
-# Join the Movement
-
-**Ready to build identity-first organizations?**
-
-### Get Involved:
-- 🔬 Experiment with SSI technologies
-- 🏗️ Build reputation-based governance systems
-- 🤝 Connect with the NAO community
-- 📚 Research and development initiatives
-
 ### Questions & Discussion
+[Article about NAO](https://medium.com/ai-in-plain-english/networked-agent-organizations-identity-shift-eb469efb793d)
 
-
----
