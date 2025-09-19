@@ -2,24 +2,17 @@
 title: AI Agent NAO
 theme: solarized
 transition: slide
----
-# Networked Agentic Organizations (NAOs) 
-## Presentation Slides
 
----
-
-# Networked Agentic Organizations (NAOs)
+--- 
+# Networked Agentic Organizations
 ## The Evolution Beyond DAOs
 
 **Identity-First Organizations for the Future of Work**
 
-*Built on Self-Sovereign Identity & Agentic Intelligence*
-
-**Script:** "Good morning everyone. Today I want to share with you the next evolution in organizational design - Networked Agentic Organizations, or NAOs. While DAOs promised decentralized governance, they've encountered significant limitations. NAOs represent a fundamental shift from token-based to identity-based organizations." *[30 seconds]*
 
 ---
 
-### Slide 2: The Problem with DAOs
+###  The Problem with DAOs
 ## DAOs: Promise vs Reality
 
 **The Promise:**
@@ -27,6 +20,8 @@ transition: slide
 - Community ownership  
 - Transparent decisions
 - Global participation
+
+--
 
 **The Reality:**
 - ❌ Wealthy token holders control decisions
@@ -37,12 +32,14 @@ transition: slide
 
 ---
 
-### Slide 3: Introducing NAOs
+### Introducing NAOs
 ## Enter NAOs: Identity-First Organizations
 
 ### Key Question Shift:
 **"How much do you own?"**
+
 ⬇️
+
 **"What can you contribute?"**
 
 **Built on Self-Sovereign Identity (SSI) + Agentic Intelligence**
@@ -50,7 +47,7 @@ transition: slide
 
 ---
 
-### Slide 4: Core Components
+### Core Components
 ## NAO Foundation: Three Pillars
 
 ### Self-Sovereign Identity
@@ -58,10 +55,14 @@ transition: slide
 - Portable credentials & reputation
 - Selective disclosure privacy
 
+--
+
 ### Agentic Identity  
 - AI agents as verified participants
 - Human-AI collaborative governance
 - Reputation-based accountability
+
+--
 
 ### Social Graph
 - Relationship-aware governance
@@ -71,7 +72,7 @@ transition: slide
 
 ---
 
-### Slide 5: How NAOs Work
+###  How NAOs Work
 ## NAO Network in Action
 
 ```
@@ -87,38 +88,91 @@ transition: slide
 
 ---
 
-### Slide 6: DAO vs NAO Comparison
+###  DAO vs NAO Comparison
 ## DAO vs NAO: Side by Side
+
+
 
 | Aspect | DAOs | NAOs |
 |--------|------|------|
 | **Governance** | Token-weighted voting | Reputation-based consensus |
 | **Identity** | Anonymous wallet addresses | Verified credentials & expertise |
+
+--
+
+| Aspect | DAOs | NAOs |
+|--------|------|------|
 | **Adaptability** | Rigid smart contracts | Organic evolution |
 | **Participation** | Binary (token holder or not) | Graduated based on contribution |
+
+--
+
+| Aspect | DAOs | NAOs |
+|--------|------|------|
 | **Resource Allocation** | Algorithmic, token-based | Context-aware, merit-based |
 
 ---
 
-### Slide 7: Real-World Applications
-## NAOs in Practice
+### From Decentralized to Networks
 
-### 🧬 Research Collaboratives
-Scientists across institutions collaborate based on expertise, not institutional boundaries
+## From Decentralization to Networks
 
-### 💻 Open Source Projects  
-Developers gain influence through code quality and community contribution
+- DAOs focus on algorithmic trust and eliminating central decision-makers entirely
+- Real organizations actually operate with centralized power structures and clear decision-makers
+- NAOs embrace pragmatic flexibility - can be hierarchical, centralized, or decentralized as needed
 
-### 🎨 Creative Collectives
-Artists collaborate dynamically with fair compensation based on contribution
+--
 
-### 💼 Professional Networks
-Consultants form project teams based on verified expertise and collaboration history
+## Key Differences
 
+- DAOs prioritize rigid decentralization principles over practical outcomes
+- NAOs prioritize achieving organizational goals over ideological purity
+- NAOs align better with how modern organizations actually function in practice
+
+--
+
+## The Pragmatic Shift
+
+- Networks allow different interaction types based on what works best
+- Someone still needs to set direction and guide toward goals
+- Structure follows function rather than forcing function into idealistic structure
 
 ---
 
-### Slide 8: Key Benefits
+### From Full Autonomy to Agency
+
+- Full autonomy = entities act completely independently based solely on self-interest
+- Agency = empowered decision-making within a collaborative organizational framework
+- Key difference: integration vs. isolation
+
+---
+
+### How Full Autonomy Works
+
+- Entities operate as completely separate, self-interested actors
+- Influence determined only by token holdings
+- No meaningful organizational integration or collaboration
+
+---
+
+### How Agency Works
+
+- Agents retain decision-making rights and independent reasoning
+- Become more integrated into the organization while gaining more empowerment
+- Focus on meaningful contribution within collaborative structure rather than pure independence
+
+---
+
+### The Strategic Shift
+
+- Goal moves from maximum independence to maximum effectiveness
+- Balances individual empowerment with organizational cohesion
+- Creates framework for coordinated action while preserving agent autonomy
+
+---
+
+
+### Key Benefits
 ## Why NAOs Matter
 
 ✅ **Meritocratic:** Influence based on contribution, not capital
@@ -134,7 +188,7 @@ Consultants form project teams based on verified expertise and collaboration his
 
 ---
 
-### Slide 9: Challenges & Solutions
+###  Challenges & Solutions
 ## Challenges We're Solving
 
 ### Current Challenges
@@ -142,6 +196,8 @@ Consultants form project teams based on verified expertise and collaboration his
 - Reputation system gaming
 - Technical infrastructure maturity
 - Legal recognition uncertainty
+
+-- 
 
 ### Our Approach
 - Multi-factor identity proofing
@@ -152,10 +208,12 @@ Consultants form project teams based on verified expertise and collaboration his
 
 ---
 
-### Slide 10: The Future
+###  The Future
 ## The Future is Identity-First
 
 > "NAOs don't just change how we organize—they change how we think about human potential and collective intelligence."
+
+--
 
 ### What's Next?
 - 🌐 Cross-platform reputation standards
@@ -166,7 +224,7 @@ Consultants form project teams based on verified expertise and collaboration his
 
 ---
 
-### Slide 11: Call to Action
+###  Call to Action
 # Join the Movement
 
 **Ready to build identity-first organizations?**
