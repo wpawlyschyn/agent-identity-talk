@@ -22,26 +22,14 @@ transition: slide
 
 ## Three Pillars of Agent Autonomy
 
-<div style="display: flex; justify-content: space-around;">
-<div>
-
 ### 🔧 Actions
 Tools & Execution
-
-</div>
-<div>
 
 ### 🧠 Memory
 Context & Learning
 
-</div>
-<div>
-
 ### 💭 Reasoning
 Decisions & Logic
-
-</div>
-</div>
 
 ---
 
@@ -142,7 +130,6 @@ Communication Tools
 - Transparent decisions
 - Compositional thinking
 
-</div>
 
 ---
 
@@ -231,9 +218,5 @@ graph LR
 ## Questions?
 
 ### Learn More
-- Graph databases for agent memory
-- Tool orchestration patterns  
-- Neurosymbolic reasoning approaches
-- Agent evaluation frameworks
-
+[Agentic AI: Agent Autonomy — Tools, Reasoning and Memory with Graph Empowerment](https://medium.com/ai-in-plain-english/agentic-ai-agent-autonomy-tools-reasoning-and-memory-with-graph-empowerment-5790336ffc3c)
 **Thank you!**
