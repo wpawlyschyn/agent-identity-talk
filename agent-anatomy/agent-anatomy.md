@@ -1,5 +1,5 @@
 ---
-title: Agentic AI : Agent anatomy with knowledge graphs 
+title: Agent anatomy with knowledge graphs 
 theme: solarized
 transition: slide
 ---
@@ -20,7 +20,7 @@ transition: slide
 
 ---
 
-## Three Pillars of Agent Autonomy
+## Three Pillars of Agent Anatomy
 
 ### 🔧 Actions
 Tools & Execution
@@ -30,6 +30,17 @@ Context & Learning
 
 ### 💭 Reasoning
 Decisions & Logic
+
+--- 
+
+## Graph Powered Agent 
+![](anatomy.png)
+
+---
+
+## Knowledge Graphs 
+
+![](graphs.png)
 
 ---
 
