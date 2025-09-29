@@ -1,11 +1,11 @@
 ---
-title: AI Agent Autonomy
+title: Agentic AI : Agent anatomy with knowledge graphs 
 theme: solarized
 transition: slide
 ---
 
 # Agentic AI
-## Agent Autonomy via Atonomy  with Graph Empowerment
+## Agentic AI : Agent anatomy with knowledge graphs 
 ### Tools, Reasoning & Memory
 
 ---
